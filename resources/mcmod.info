@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dynamicworld",
+  "name": "Dynamic World",
+  "description": "Dynamic World.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jtsfour"],
+  "credits": "jtsfour",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
